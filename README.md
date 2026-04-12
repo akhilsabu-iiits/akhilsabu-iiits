@@ -57,10 +57,6 @@
 
 ## Featured Project
 
-<a href="https://github.com/akhilsabu-iiits/VRYFD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilsabu-iiits&repo=VRYFD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
-</a>
-
 > ⛓️ Gasless on-chain event attendance · POAP badges · VRYF token rewards · Milestone NFTs · Live at [vryfd.online](https://vryfd.online)
 
 ---
