@@ -64,9 +64,12 @@
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhilsabu-iiits&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhilsabu-iiits&theme=tokyonight" />
+</div>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=akhilsabu-iiits&data=followers,repositories,stars,commits&theme=viridescent" />
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilsabu-iiits&theme=tokyonight" />
 </div>
 
 <div align="center">
