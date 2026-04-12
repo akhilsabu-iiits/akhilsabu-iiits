@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Akhil+Sabu+%F0%9F%91%8B;Security+Architect;Web3+%26+Full-Stack+Developer;Building+on+Ethereum+%E2%9B%93;Student+%40+IIIT+Sricity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Akhil+Sabu+%F0%9F%91%8B;Security+Architect;DevSecOps+Engineer;Building+on+Ethereum+%E2%9B%93;Student+%40+IIIT+Sricity" alt="Typing SVG" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 ## About Me
 
-- 🔐 **Security Architect** | Cyber Security Student at IIIT Sricity
+- 🔐 **Security Architect** & **DevSecOps Engineer** | Cyber Security Student at IIIT Sricity
 - ⛓️ Building **[VRYFD](https://vryfd.online)** — a gasless, on-chain event attendance system on Ethereum
-- 🔭 Exploring **Smart Contract Security**, **DeFi**, and **Full-Stack Web3**
+- 🔭 Exploring **Smart Contract Security**, **DeFi**, and **Blockchain Security**
 - 🌱 Currently learning **Solidity**, **wagmi**, and **Zero-Knowledge Proofs**
 - 📬 Reach me at **omcs25s00005@iiits.in**
 
