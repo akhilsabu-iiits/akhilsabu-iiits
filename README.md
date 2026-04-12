@@ -65,13 +65,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhilsabu-iiits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsabu-iiits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=akhilsabu-iiits&data=followers,repositories,stars,commits&theme=viridescent" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsabu-iiits&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+  <img src="https://streak-stats.demolab.com/?user=akhilsabu-iiits&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilsabu-iiits&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff" />
 </div>
 
 ---
