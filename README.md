@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔐 **Security Architect** | CS Student at IIIT Sricity
+- 🔐 **Security Architect** | Cyber Security Student at IIIT Sricity
 - ⛓️ Building **[VRYFD](https://vryfd.online)** — a gasless, on-chain event attendance system on Ethereum
 - 🔭 Exploring **Smart Contract Security**, **DeFi**, and **Full-Stack Web3**
 - 🌱 Currently learning **Solidity**, **wagmi**, and **Zero-Knowledge Proofs**
