@@ -55,32 +55,9 @@
 
 ---
 
-## 🚀 Featured Project — VRYFD
+## Featured Project
 
-<div align="center">
-
-[![VRYFD](https://img.shields.io/badge/VRYFD-On--Chain_Attendance-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/akhilsabu-iiits/VRYFD)
-[![Live](https://img.shields.io/badge/Live_at-vryfd.online-34d399?style=for-the-badge&logoColor=white)](https://vryfd.online)
-
-</div>
-
-*Verify presence. Earn rewards. Own your record — forever on the blockchain.*
-
-| | Feature |
-|:---:|---|
-| ⚡ | **Gasless Check-In** — EIP-712 signed messages, relayer pays all gas |
-| 🔴 | **Live Session Tracking** — WebRTC + Socket.io real-time webinar attendance |
-| 🏅 | **Soulbound POAP Badges** — Non-transferable ERC-1155 NFT per event |
-| 🪙 | **VRYF Token Rewards** — Auto-minted ERC-20 for check-ins & milestones |
-| 🏆 | **Milestone NFTs** — Bronze / Silver / Gold at 5 / 10 / 20 events |
-| 📜 | **Blockchain Certificates** — Tamper-proof with scannable QR codes |
-| 🌐 | **Multi-Chain** — Gnosis Chain · Polygon · Sepolia |
-
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636?style=flat-square&logo=solidity)](https://soliditylang.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![IPFS](https://img.shields.io/badge/IPFS-Pinata-65C2CB?style=flat-square&logo=ipfs)](https://ipfs.tech)
+> ⛓️ Gasless on-chain event attendance · POAP badges · VRYF token rewards · Milestone NFTs · Live at [vryfd.online](https://vryfd.online)
 
 ---
 
