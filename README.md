@@ -15,14 +15,23 @@
 ## About Me
 
 - 🔐 **Security Architect** & **DevSecOps Engineer** | Cyber Security Student at IIIT Sricity
+- ☁️ Built **[CloudGuard](https://github.com/akhilsabu-iiits/CloudGuard)** — a CloudSim Plus study of how Token Bucket admission control protects cloud services under simulated DoS workloads
 - ⛓️ Building **[VRYFD](https://vryfd.online)** — a gasless, on-chain event attendance system on Ethereum
-- 🔭 Exploring **Smart Contract Security**, **DeFi**, and **Blockchain Security**
+- 🔭 Exploring **Cloud Security**, **Smart Contract Security**, and **Blockchain Security**
 - 🌱 Currently learning **Solidity**, **wagmi**, and **Zero-Knowledge Proofs**
 - 📬 Reach me at **omcs25s00005@iiits.in**
 
 ---
 
 ## Tech Stack
+
+**Cloud & Security**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![CloudSim Plus](https://img.shields.io/badge/CloudSim_Plus-3768E8?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Blockchain**
 
@@ -55,9 +64,30 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
-> ⛓️ Gasless on-chain event attendance · POAP badges · VRYF token rewards · Milestone NFTs · Live at [vryfd.online](https://vryfd.online)
+### ☁️ [CloudGuard](https://github.com/akhilsabu-iiits/CloudGuard)
+
+**Performance Evaluation of Cloud Services Under Simulated DoS Workloads**
+
+A CloudSim Plus simulation with a Spring Boot backend and analytics dashboard that measures what a Token Bucket admission policy buys, and what it costs, when a cloud service is overloaded.
+
+<a href="https://github.com/akhilsabu-iiits/CloudGuard">
+  <img src="https://raw.githubusercontent.com/akhilsabu-iiits/CloudGuard/main/docs/architecture/scenario-architecture.png" alt="CloudGuard architecture and scenario matrix" width="800" />
+</a>
+
+| Workload | Before policy | After policy | Workload rejected |
+|---|:---:|:---:|:---:|
+| Normal · 100 tasks | 103.6 s | 103.6 s | 0% |
+| Elevated · 500 tasks | 611.9 s | 424.2 s | 30% |
+
+- **30.7% faster** average task completion under elevated workload, bought by refusing 150 of 500 tasks
+- No effect under normal workload — the policy acts only when arrivals outpace the refill rate
+- Five scenarios, 20 trials each, fully reproducible · Java 17 · Spring Boot · CloudSim Plus · Docker
+
+### ⛓️ [VRYFD](https://github.com/akhilsabu-iiits/VRYFD)
+
+> Gasless on-chain event attendance · POAP badges · VRYF token rewards · Milestone NFTs · Live at [vryfd.online](https://vryfd.online)
 
 ---
 
@@ -88,6 +118,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omcs25s00005@iiits.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilsabu-iiits)
+[![CloudGuard](https://img.shields.io/badge/CloudGuard-3768E8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhilsabu-iiits/CloudGuard)
 [![VRYFD](https://img.shields.io/badge/VRYFD_Live-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)](https://vryfd.online)
 
 </div>
